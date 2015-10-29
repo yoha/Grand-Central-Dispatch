@@ -13,6 +13,7 @@
 		655775BC1BE210A2005442FA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 655775BA1BE210A2005442FA /* Main.storyboard */; };
 		655775BE1BE210A2005442FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 655775BD1BE210A2005442FA /* Assets.xcassets */; };
 		655775C11BE210A2005442FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 655775BF1BE210A2005442FA /* LaunchScreen.storyboard */; };
+		655775C91BE21E35005442FA /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655775C81BE21E35005442FA /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		655775BD1BE210A2005442FA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		655775C01BE210A2005442FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		655775C21BE210A2005442FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		655775C81BE21E35005442FA /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				655775BD1BE210A2005442FA /* Assets.xcassets */,
 				655775BF1BE210A2005442FA /* LaunchScreen.storyboard */,
 				655775C21BE210A2005442FA /* Info.plist */,
+				655775C81BE21E35005442FA /* SwiftyJSON.swift */,
 			);
 			path = "Grand Central Dispatch";
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 				655775B91BE210A2005442FA /* DetailViewController.swift in Sources */,
 				655775B71BE210A2005442FA /* MasterViewController.swift in Sources */,
 				655775B51BE210A2005442FA /* AppDelegate.swift in Sources */,
+				655775C91BE21E35005442FA /* SwiftyJSON.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
